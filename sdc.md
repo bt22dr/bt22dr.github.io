@@ -28,16 +28,23 @@ layout: default
 
 ## Sensor Fusion
 ### Extended Kalman Filter 
-[![]({{ site.url }}/assets/images/sdc-extended-kalman-filter.gif)](https://docs.google.com/document/d/12nUA9S5EXvxq-sbqcCNWuDsEI3MT-zG1ROP9oxKDbxQ/edit?usp=sharing)
+![]({{ site.url }}/assets/images/sdc-extended-kalman-filter.gif)
+
+[EKF Notes](https://docs.google.com/document/d/12nUA9S5EXvxq-sbqcCNWuDsEI3MT-zG1ROP9oxKDbxQ/edit?usp=sharing)
 
 ### Unscented Kalman Filter 
-[![]({{ site.url }}/assets/images/sdc-unscented-kalman-filter.gif)](https://docs.google.com/document/d/1MZHKUmk9UQ5LpyH34vTZHAlN4rcvP0ANnT3cky5msdg/edit?usp=sharing)
+![]({{ site.url }}/assets/images/sdc-unscented-kalman-filter.gif)
+
+[UKF Notes](https://docs.google.com/document/d/1MZHKUmk9UQ5LpyH34vTZHAlN4rcvP0ANnT3cky5msdg/edit?usp=sharing)
 
 
 
 ## Localization
 ### Particle Fiter
+![]({{ site.url }}/assets/images/sdc-particle_filter.gif)
 
+* [Markov Localization Notes](https://docs.google.com/document/d/16ceP0tXqwgHY3ntYjmDwbUIj35PvG-6NYLT-ChbEc3A/edit?usp=sharing)
+* [Particle Filter Notes](https://docs.google.com/document/d/1doS8mDIkrr3F9V70GVH6SHO3sKPh0IvfBBwCeKE9MVo/edit?usp=sharing)
 
 
 ## Control

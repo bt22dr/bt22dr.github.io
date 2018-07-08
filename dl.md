@@ -10,7 +10,7 @@ layout: default
 ### Visual Search
 [![]({{ site.url }}/assets/images/dl-visual-search.png)](https://github.com/bt22dr/visual_search_slim)
 
-### Color Extraction
+### Salient Color Extraction
 ![]({{ site.url }}/assets/images/dl-color-extraction.png)]
 
 ## 주요 논문 리뷰 및 구현

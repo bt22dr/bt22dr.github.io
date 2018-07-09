@@ -48,7 +48,7 @@ layout: default
 * [최대 유량](https://www.acmicpc.net/problem/6086): https://gist.github.com/bt22dr/1f1c49c7298d0741f8589b1f1f1192c1
 * [스타트링크](https://www.acmicpc.net/problem/5014): https://gist.github.com/bt22dr/3d1a2051afc0dd6241421f3a4d56e744
 * [피자판매](https://www.acmicpc.net/problem/2632): https://gist.github.com/bt22dr/425e0fb88dcd0201ffab31d28fd536ff
-* [피자판매](https://www.acmicpc.net/problem/2632)): https://gist.github.com/bt22dr/f23ae376d142ad114f2b9f3f264fe241
+* [피자판매](https://www.acmicpc.net/problem/2632): https://gist.github.com/bt22dr/f23ae376d142ad114f2b9f3f264fe241
 * [바이러스](https://www.acmicpc.net/problem/2606): https://gist.github.com/bt22dr/b62e6458c97111a82c34977208e119c4
 * [계단 오르기](https://www.acmicpc.net/problem/2579): https://gist.github.com/bt22dr/94b9ea81fb276fd916a590bf7eada790
 * [일곱 난쟁이](https://www.acmicpc.net/problem/2309): https://gist.github.com/bt22dr/cf4a91ef59f8d5488de1eecf625f45ae
@@ -82,5 +82,5 @@ layout: default
 * [DFS와 BFS](https://www.acmicpc.net/problem/1260): https://gist.github.com/bt22dr/32760ae2b03411b5d5567ffcf545ad25
 * [최소 스패닝 트리](https://www.acmicpc.net/problem/1197): https://gist.github.com/bt22dr/f8d9e95da73a5aa7b8ad9ba73d960f64
 * [부분집합의 합](https://www.acmicpc.net/problem/1182): https://gist.github.com/bt22dr/00ce3209b964795ee9d7908edf420bc3
-* [게임판 덮기](https://algospot.com/judge/problem/read/BOARDCOVER) 6장): https://gist.github.com/bt22dr/3e2804b0a277b6a65a616d094d0e13f9
-* [소풍](https://algospot.com/judge/problem/read/PICNIC)): https://gist.github.com/bt22dr/00fa09d451430812f56d41a4bd258e04
+* [게임판 덮기](https://algospot.com/judge/problem/read/BOARDCOVER): https://gist.github.com/bt22dr/3e2804b0a277b6a65a616d094d0e13f9
+* [소풍](https://algospot.com/judge/problem/read/PICNIC): https://gist.github.com/bt22dr/00fa09d451430812f56d41a4bd258e04

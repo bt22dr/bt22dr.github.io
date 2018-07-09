@@ -11,8 +11,7 @@ layout: default
 ## 그래프 
 ## 문자열 알고리즘
 ## 기하 알고리즘
-
-# 미분류
+## 미분류
 * [배열 합치기](https://www.acmicpc.net/problem/11728): https://gist.github.com/bt22dr/c6db38fe72bfa8b7591ae11ea637b175
 * [2×n 타일링 2](https://www.acmicpc.net/problem/11727): https://gist.github.com/bt22dr/83a80282ac20580b4aa08d5f1922e716
 * [2×n 타일링](https://www.acmicpc.net/problem/11726): https://gist.github.com/bt22dr/fae1050a8ae8bbdfe86947630efad8d3
